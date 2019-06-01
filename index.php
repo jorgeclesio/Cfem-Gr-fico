@@ -116,6 +116,6 @@
 		
 	</div> <!-- FIM Valor Total -->
 				       
-<?php if($_GET){?>
+<?php if($_GET){ //Mostra apenas quando existe uma requisição GET ?>
 <div id="columnchart_values" style="width: 110%; height: 300px;"></div>
 <?php } ?>
