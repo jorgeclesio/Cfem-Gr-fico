@@ -2,7 +2,7 @@
  <meta charset="UTF-8">
  <title>Histórico de Royalties do Município</title>
  <meta name="viewport" content="width-device-width, initial-scale=1">
- <meta name="author" content="Jorge Clésio">
+ <meta name="author" content="Jorge Clésio"> <!-- Não vale hackear e mudar o nome :D -->
   </head>
    	<?php 
   	$conexao = mysqli_connect ("host","user","senha",'bd') or die ("Err SERVER");
